@@ -1,4 +1,4 @@
-<img align="right" height="207x" width="205px" alt="Banner" src="https://raw.githubusercontent.com/6346563751/awesome-bots/main/logo.png">
+<img align="right" height="207x" width="205px" alt="Banner" src="https://static.thenounproject.com/png/417110-200.png">
 
 # Awesome Bots [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 > A curated list of awesome open source bots on different communication platforms.
@@ -11,7 +11,6 @@ Bots are becoming more and more important in our social network discussions. Whe
 - [Slack](#slack)
 - [Teletram](#telegram)
 - [Twitter](#twitter)
-- [Instagram](#instagram)
 - [Irc](#irc)
 
 ## Discord
@@ -20,6 +19,12 @@ Bots are becoming more and more important in our social network discussions. Whe
 * [Yagpdb](https://github.com/jonas747/yagpdb) - A general purpose bot.
 * [ModMail](https://github.com/kyb3r/modmail) - A modmail bot.
 * [MusicBot](https://github.com/Just-Some-Bots/MusicBot) - A music bot.
+
+## Slack
+*Slack is a proprietary business communication platform.*
+
+* [SlackBot](https://github.com/scrapinghub/slackbot) - A general purpose chatbot.
+* [Limbo](https://github.com/llimllib/limbo) - A simple, clean, easy to modify Slack chatbot.
 
 ## Telegram
 *Telegram is a free and secure chat.*
@@ -38,6 +43,18 @@ Bots are becoming more and more important in our social network discussions. Whe
 * [Telegram Finance bot](https://github.com/alexey-goloburdin/telegram-finance-bot) - A telegram bot for finance.
 * [Susi Telegram Bot](https://github.com/fossasia/susi_telegrambot) - Telegram bot for [AskSusi](https://github.com/fossasia/susi_server).
 
+## Twitter
+*Twitter is an American microblogging and social networking service.*
+
+* [Trump2cash](https://github.com/maxbbraun/trump2cash) - A stock trading bot powered by Trump tweets.
+* [TwitterBot](https://github.com/yjose/twitter-bot) - Node js twitter bot to send auto welcome message for your new followers.
+
+## IRC
+*IRC is an application layer protocol that facilitates communication in the form of text.*
+
+* [Eggdrop](https://github.com/eggheads/eggdrop) - The Eggdrop IRC Bot.
+* [Phenny](https://github.com/sbp/phenny) - Python IRC bot.
+* [Skybot](https://github.com/rmmh/skybot) - Python IRC bot.
 
 ## Contribute
 
