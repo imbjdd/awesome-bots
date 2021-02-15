@@ -1,4 +1,4 @@
-<img align="right" height="207x" width="205px" alt="Banner" src="https://static.thenounproject.com/png/417110-200.png">
+<img align="right" height="207x" width="205px" alt="Banner" src="https://raw.githubusercontent.com/6346563751/awesome-bots/main/logo.png">
 
 # Awesome Bots [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 > A curated list of awesome open source bots on different communication platforms.
