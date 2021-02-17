@@ -11,7 +11,7 @@ Bots are becoming more and more important in our social network discussions. Whe
 - [Slack](#slack)
 - [Telegram](#telegram)
 - [Twitter](#twitter)
-- [Irc](#irc)
+- [IRC](#irc)
 
 ## Discord
 *Discord has a complete ecosystem for bots.*
